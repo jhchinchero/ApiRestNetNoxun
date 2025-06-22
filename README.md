@@ -64,7 +64,7 @@ listening on: http://localhost:5009
 Una vez corriendo el proyecto, abre tu navegador y visita:
 
 ```
-http://localhost:5009/swagger
+http://localhost:5009
 ```
 
 Ahí podrás probar todos los endpoints de la API de manera interactiva.
